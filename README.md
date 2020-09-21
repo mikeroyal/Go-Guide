@@ -37,3 +37,27 @@
 [Gravitational Teleport](https://github.com/gravitational/teleport) is a modern security gateway for remotely accessing into Clusters of Linux servers via SSH or SSH-over-HTTPS in a browser or Kubernetes clusters.
 
 [NATS](https://nats.io/) is a simple, secure and performant communications system for digital systems, services and devices. NATS is part of the Cloud Native Computing Foundation (CNCF). NATS has over 30 client language implementations, and its server can run on-premise, in the cloud, at the edge, and even on a Raspberry Pi. NATS can secure and simplify design and operation of modern distributed systems.
+
+[Act](https://github.com/nektos/act) is a GO program that allows you to run our GitHub Actions locally.
+
+[Fiber](https://gofiber.io/) is an [Express](https://github.com/expressjs/express) inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind. 
+
+Glide](https://github.com/Masterminds/glide) is a vendor Package Management for Golang.
+
+[BadgerDB](https://github.com/dgraph-io/badger) is an embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for [Dgraph](https://dgraph.io/), a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
+
+[Go kit](https://github.com/go-kit/kit) is a programming toolkit for building microservices (or elegant monoliths) in Go. We solve common problems in distributed systems and application architecture so you can focus on delivering business value.
+
+[Codis](https://github.com/CodisLabs/codis) is a proxy based high performance Redis cluster solution written in Go.
+
+[zap](https://github.com/uber-go/zap) is a blazing fast, structured, leveled logging in Go. 
+
+[HttpRouter](https://github.com/julienschmidt/httprouter) is a lightweight high performance HTTP request router (also called multiplexer or just mux for short) for Go.
+
+[Gorilla WebSocket](https://github.com/gorilla/websocket) is a Go implementation of the WebSocket protocol.
+
+[Delve](https://github.com/go-delve/delve) is a debugger for the Go programming language. 
+
+[GORM](https://github.com/go-gorm/gorm) is a fantastic ORM library for Golang, aims to be developer friendly.
+
+[Go Patterns](https://github.com/tmrts/go-patterns) is a curated collection of idiomatic design & application patterns for Go language.
