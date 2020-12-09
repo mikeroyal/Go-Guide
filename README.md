@@ -12,13 +12,25 @@
 
 [Golang Contribution Guide](https://golang.org/doc/contribute.html)
 
+[Google Developers Training](https://developers.google.com/training/)
+
+[Google Developers Certification](https://developers.google.com/certification/)
+
 [Uber's Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 [GitLab's Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide/)
 
 [Effective Go](https://golang.org/doc/effective_go.html)
 
-[Go: The Complete Developer's Guide (Golang) by Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)
+[Go: The Complete Developer's Guide (Golang) on Udemy](https://www.udemy.com/course/go-the-complete-developers-guide/)
+
+[Getting Started with Go on Coursera](https://www.coursera.org/learn/golang-getting-started)
+
+[Programming with Google Go on Coursera](https://www.coursera.org/specializations/google-golang)
+
+[Learning Go Fundamentals on Pluralsight](https://www.pluralsight.com/courses/go-fundamentals)
+
+[Learning Go on Codecademy](https://www.codecademy.com/learn/learn-go)
 
 ## Tools
 
