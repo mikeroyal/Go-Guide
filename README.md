@@ -54,7 +54,7 @@
 
 [Fiber](https://gofiber.io/) is an [Express](https://github.com/expressjs/express) inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp), the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind. 
 
-Glide](https://github.com/Masterminds/glide) is a vendor Package Management for Golang.
+[Glide](https://github.com/Masterminds/glide) is a vendor Package Management for Golang.
 
 [BadgerDB](https://github.com/dgraph-io/badger) is an embeddable, persistent and fast key-value (KV) database written in pure Go. It is the underlying database for [Dgraph](https://dgraph.io/), a fast, distributed graph database. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 
