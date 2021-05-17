@@ -6,7 +6,14 @@
 
 #### A guide covering the Go programming language including the applications and tools that will make you a better and more efficient Go developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560513-74b73e00-b71e-11eb-9484-88984b3ef3da.png">
+  <br />
+</p>
+
+# Go Learning Resources
 
 [Go](https://golang.org/) is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
@@ -32,7 +39,7 @@
 
 [Learning Go on Codecademy](https://www.codecademy.com/learn/learn-go)
 
-## Tools
+# Go Tools and Frameworks
 
 [golang tools](https://pkg.go.dev/golang.org/x/tools) holds the source for various packages and tools that support the Go programming language.
 
@@ -73,3 +80,13 @@
 [GORM](https://github.com/go-gorm/gorm) is a fantastic ORM library for Golang, aims to be developer friendly.
 
 [Go Patterns](https://github.com/tmrts/go-patterns) is a curated collection of idiomatic design & application patterns for Go language.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Go-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
